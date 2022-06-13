@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestMatajar</string>
+    <string name="contentDescription">Content Description</string>
+
 </resources>

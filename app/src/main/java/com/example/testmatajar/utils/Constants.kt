@@ -10,7 +10,7 @@ object Constants {
     //timeout
     const val SPLASH_TIME_OUT = 2000L
 
-
+    const val VIEW_TYPE_CART_ITEM = 1
 
 
 
